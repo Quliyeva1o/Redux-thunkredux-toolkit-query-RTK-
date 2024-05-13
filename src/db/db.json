@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "id": "e4b6",
+      "title": "Matrix",
+      "posterImg": "https://cdn.europosters.eu/image/750/wall-murals/matrix-choose-your-path-i153524.jpg",
+      "releaseYear": "1999",
+      "genre": "fantasy"
+    },
+    {
+      "id": "65b4",
+      "title": "Lucy",
+      "posterImg": "https://resizing.flixster.com/E2uTOzHJK9qQ0ABe6EuB_JmtzWg=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10479310_p_v10_ar.jpg",
+      "releaseYear": "2014",
+      "genre": "Science fiction"
+    },
+    {
+      "id": "6767",
+      "title": " Passengers",
+      "posterImg": "https://m.media-amazon.com/images/M/MV5BZjk4ZTMwMTYtOTk1NC00OTA0LWFhMGYtZTBjMzViMDY2YWZjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "releaseYear": "2016",
+      "genre": "Romance/Sci-fi"
+    },
+    {
+      "id": "352f",
+      "title": "Interstellar",
+      "posterImg": "https://m.media-amazon.com/images/I/91JnoM0khKL._AC_UF1000,1000_QL80_.jpg",
+      "releaseYear": "2014",
+      "genre": "Sci-fi/Adventure"
+    },
+    {
+      "id": "dabc",
+      "title": "Deadpool",
+      "posterImg": "https://upload.wikimedia.org/wikipedia/en/2/23/Deadpool_%282016_poster%29.png",
+      "releaseYear": "2016",
+      "genre": "Action/Comedy"
+    }
+  ]
+}

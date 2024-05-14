@@ -26,7 +26,17 @@ export const movieAPI = createApi({
                 },
             }),
         }),
+        patchMovie: builder.mutation({
+            query: ({ id, changes }) => ({
+                url: `movies/${id}`,
+                body: changes,
+                method: "PATCH",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+            }),
+        }),
     }),
 })
 
-export const { useGetMovieByIdQuery, useDeleteMovieMutation, usePostMovieMutation, useGetMoviesQuery } = movieAPI
+export const { useGetMovieByIdQuery, useDeleteMovieMutation, usePostMovieMutation, useGetMoviesQuery,usePatchMovieMutation } = movieAPI

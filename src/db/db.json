@@ -5,42 +5,15 @@
       "title": "Matrix",
       "posterImg": "https://cdn.europosters.eu/image/750/wall-murals/matrix-choose-your-path-i153524.jpg",
       "releaseYear": "1999",
-      "genre": "fantasy",
-      "changes": {
-        "id": "e4b6",
-        "title": "Matrixxx",
-        "posterImg": "https://cdn.europosters.eu/image/750/wall-murals/matrix-choose-your-path-i153524.jpg",
-        "releaseYear": "1999",
-        "genre": "fantasy",
-        "changes": {
-          "id": "e4b6",
-          "title": "Matrixxxx",
-          "posterImg": "https://cdn.europosters.eu/image/750/wall-murals/matrix-choose-your-path-i153524.jpg",
-          "releaseYear": "1999",
-          "genre": "fantasy",
-          "changes": {
-            "id": "e4b6",
-            "title": "Matrixxx",
-            "posterImg": "https://cdn.europosters.eu/image/750/wall-murals/matrix-choose-your-path-i153524.jpg",
-            "releaseYear": "1999",
-            "genre": "fantasy",
-            "changes": {
-              "id": "e4b6",
-              "title": "Matrix",
-              "posterImg": "https://cdn.europosters.eu/image/750/wall-murals/matrix-choose-your-path-i153524.jpg",
-              "releaseYear": "19997",
-              "genre": "fantasy"
-            }
-          }
-        }
-      }
+      "genre": "fantasy"
     },
     {
       "id": "65b4",
-      "title": "Lucyy",
+      "title": "Lucy",
       "posterImg": "https://resizing.flixster.com/E2uTOzHJK9qQ0ABe6EuB_JmtzWg=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10479310_p_v10_ar.jpg",
       "releaseYear": "2014",
       "genre": "Science fiction"
+     
     },
     {
       "id": "6767",
@@ -51,7 +24,7 @@
     },
     {
       "id": "352f",
-      "title": "Interstellar",
+      "title": "Interstellarss",
       "posterImg": "https://m.media-amazon.com/images/I/91JnoM0khKL._AC_UF1000,1000_QL80_.jpg",
       "releaseYear": "2014",
       "genre": "Sci-fi/Adventure"
